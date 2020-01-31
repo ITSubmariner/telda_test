@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Moscow",
+    "title": "MSK"
+  },
+  {
+    "id": 2,
+    "name": "Saint-Petersburg",
+    "title": "SPB"
+  },
+  {
+    "id": 3,
+    "name": "Belgorod",
+    "title": "BLG"
+  }
+]

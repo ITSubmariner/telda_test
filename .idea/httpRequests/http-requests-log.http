@@ -1,0 +1,450 @@
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T114152.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T114138.200.json
+
+###
+
+PUT http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T114129.400.json
+
+###
+
+PUT http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":1,"name":"Moscow","title":"MSS"}
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T114037.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113318.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113314.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113140.200.json
+
+###
+
+GET http://localhost:8080/region?id=2
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113135.200.json
+
+###
+
+GET http://localhost:8080/region?id=3
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113129.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113124.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T113103.200.json
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Belgorod","title":"BLG"}
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T112956.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-31T112951.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051832.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051822.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051815.200.json
+
+###
+
+PUT http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id": 1,"name": "Moscow","title": "MSS"}
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051729.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051632.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051629.200.json
+
+###
+
+PUT http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id": 1,"name": "Moscow","title": "MSS"}
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051532.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051059.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051056.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051051.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T051041.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T044931.200.json
+
+###
+
+GET http://localhost:8080/region?id=3
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T044925.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T044914.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T044859.200.json
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Kaluga","title":"KLG"}
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T044806.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T042618.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T042616.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T042613.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T042514.200.json
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T042512.200.json
+
+###
+
+GET http://localhost:8080/region?id=5
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Kaluga","title":"KLG"}
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Kaluga","title":"KLG"}
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Kaluga","title":"KLG"}
+
+<> 2020-01-30T040729.500.json
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Kaluga","title":"KLG"}
+
+###
+
+GET http://localhost:8080/region/all
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T035048.200.json
+
+###
+
+GET http://localhost:8080/region?id=1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2020-01-30T035038.200.json
+
+###
+
+DELETE http://localhost:8080/region?id=3
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+PUT http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"id":3,"name":"Smolensk","title":"SMM"}
+
+###
+
+POST http://localhost:8080/region
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Smolensk","title":"SMK"}
+
+###
+
+POST http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"name":"Smolensk","title":"SMK"}
+
+<> 2020-01-30T034912.404.json
+
+###
+
