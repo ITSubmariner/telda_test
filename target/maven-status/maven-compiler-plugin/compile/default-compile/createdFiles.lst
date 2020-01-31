@@ -1,0 +1,6 @@
+ru/telda/config/Persistence.class
+ru/telda/repositories/RegionMapper.class
+ru/telda/config/Cache.class
+ru/telda/controllers/RegionController.class
+ru/telda/signatures/Region.class
+ru/telda/TeldaApplication.class
