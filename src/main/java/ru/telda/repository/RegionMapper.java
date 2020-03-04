@@ -1,7 +1,7 @@
-package ru.telda.repositories;
+package ru.telda.repository;
 
 import org.apache.ibatis.annotations.*;
-import ru.telda.signatures.Region;
+import ru.telda.domain.Region;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ru.telda.controllers;
+package ru.telda.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

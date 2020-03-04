@@ -1,4 +1,4 @@
-package ru.telda.signatures;
+package ru.telda.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
